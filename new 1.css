@@ -1,0 +1,31 @@
+/*Dokumen CSS*/
+
+	
+	.cetak_tebal{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:Tomato;
+	}
+	
+	tulisan_miring{
+	font-family:'Lucida Handwriting';
+	font-style:italic;
+	}
+	
+
+	h2{ 
+	font-family:'Monaco'; 
+	color: rgb(24, 40, 114);
+	font-style:italic;}
+	
+	#Jae { 
+	font-family:'Helvetica'; 
+	color: rgb(221, 59, 126);}
+	
+	img.kanan {
+    float: right;
+    margin: 5px;
+}
+
+li { font-family:'Lucida Handwriting' ; }
